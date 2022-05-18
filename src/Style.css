@@ -1,0 +1,37 @@
+a.item {
+  font-size: larger;
+  font-style: inherit;
+  font-stretch: extra-expanded;
+  font-weight: bold;
+  font-feature-settings: inherit;
+  font: caption;
+  font-family: fantasy;
+}
+
+.ui.secondary.pointing.menu {
+  margin-right: 0;
+  margin-block-end: auto;
+  align-items: center;
+}
+
+div {
+  background-color: azure;
+}
+
+.ui.secondary.pointing.menu {
+  background-color: rgb(60, 120, 138);
+}
+
+.ui.styled.accordion {
+  background-color: lightcyan;
+}
+
+.ui.form {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+h3.ui.header {
+  margin-right: 40px;
+  margin-left: 40px;
+}
