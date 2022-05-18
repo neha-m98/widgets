@@ -12,7 +12,7 @@ const Link = ({ className, href, children }) => {
     window.dispatchEvent(navEvent);
   };
   return (
-    <a className={className} href={href}>
+    <a className={className} href={href} onClick={onClick}>
       {children}
     </a>
   );
